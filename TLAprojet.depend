@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1367151397 source:c:\users\dell\desktop\projetde_tla\stdafx.cpp
+	"stdafx.h"
+
+1367151397 c:\users\dell\desktop\projetde_tla\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1398430607 source:c:\users\dell\desktop\projetde_tla\tlaprojet.cpp
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Arbre.h"
+	"PileChar.h"
+	"PileNoeud.h"
+	"FonctionTLA.h"
+
+1398363862 c:\users\dell\desktop\projetde_tla\arbre.h
+
+1368680295 c:\users\dell\desktop\projetde_tla\pilechar.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1368690496 c:\users\dell\desktop\projetde_tla\pilenoeud.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1398428403 c:\users\dell\desktop\projetde_tla\fonctiontla.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	"Arbre.h"
+	"PileChar.h"
+	"PileNoeud.h"
+
