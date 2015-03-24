@@ -1,4 +1,4 @@
-# nd-to-d-finite-automata-converter
+# nfa-to-dfa-converter
 
 This project is developed by Ghada Bahloul for a class project (2013/2014).
 
